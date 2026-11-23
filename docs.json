@@ -1,0 +1,26 @@
+{
+  "name": "Test-sews-docs",
+  "colors": {
+    "primary": "#0f766e"
+  },
+  "navigation": [
+    {
+      "tab": "Guides",
+      "groups": [
+        {
+          "group": "Getting started",
+          "pages": [
+            "guides/quickstart",
+            "guides/editor"
+          ]
+        },
+        {
+          "group": "Publish",
+          "pages": [
+            "guides/publish"
+          ]
+        }
+      ]
+    }
+  ]
+}
