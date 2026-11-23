@@ -21,6 +21,18 @@
           ]
         }
       ]
+    },
+{
+      "tab": "API",
+      "groups": [
+        {
+          "group": "Getting started",
+          "pages": [
+            "api/quickstart",
+            "api/editor"
+          ]
+        }        
+      ]
     }
   ]
 }
