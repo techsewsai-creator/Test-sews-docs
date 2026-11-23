@@ -19,10 +19,16 @@
           "pages": [
             "guides/publish"
           ]
+        },
+        {
+          "group": "Api",
+          "pages": [
+            "api/overview"
+          ]
         }
       ]
     },
-{
+    {
       "tab": "API",
       "groups": [
         {
@@ -31,7 +37,7 @@
             "api/quickstart",
             "api/editor"
           ]
-        }        
+        }
       ]
     }
   ]
