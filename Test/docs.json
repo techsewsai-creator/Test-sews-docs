@@ -34,8 +34,7 @@
         {
           "group": "Getting started",
           "pages": [
-            "api/quickstart",
-            "api/editor"
+            "api/overview"
           ]
         }
       ]
